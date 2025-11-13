@@ -21,7 +21,7 @@ This spins up:
 
 ### 2. Access the database
 
-Open [pgweb](http://localhost:8081) → click *Connect* → choose the `postgres` database.
+Open [pgweb](http://localhost:8081) 👉 click *Connect* 👉 choose the `postgres` database.
 
 Each challenge lives in its own **schema**:
 
